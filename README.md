@@ -30,8 +30,8 @@ Solana meme token launched on pump.fun to celebrate Elon's 54th Birthday
 
 ## 📣 Social Links
 
-- Twitter: (Add if available)
-- Telegram: (Add if available)
+- Twitter: https://x.com/54thelon?s=11
+- Telegram: https://t.me/elon54thbirthday100xmeme
 
 ## 📄 License
 
